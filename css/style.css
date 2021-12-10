@@ -11,7 +11,7 @@
   padding: 0 80px;
   margin: auto;
 }
-/*navbar styling*/
+/*************************************navbar styling***********************************************************/
 .navbar {
   position: fixed;
   width: 100%;
@@ -42,7 +42,7 @@
   color: crimson;
 }
 
-/*home section style*/
+/******************************* home section style *************************************/
 .home {
   display: flex;
   background: black;
