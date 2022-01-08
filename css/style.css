@@ -476,6 +476,12 @@ section .title::after {
   font-size: 25px;
   color: crimson;
 }
+.contact .btn i {
+  margin: 45px 0 0 0;
+  padding: 0 30px 0 0;
+  font-size: 25px;
+  color: crimson;
+}
 .contact .contact-content .info .head {
   font-weight: 500;
 }
