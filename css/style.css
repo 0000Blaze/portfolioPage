@@ -284,6 +284,7 @@ section .title::after {
   padding: 50px 25px;
   cursor: pointer;
   transition: all 0.3s ease;
+  margin: 5px;
 }
 .services .serv-content .card:hover {
   background: crimson;
@@ -294,18 +295,27 @@ section .title::after {
 .services .serv-content .card:hover .box {
   transform: scale(1.05);
 }
-.services .serv-content .card i {
-  font-size: 50px;
+.services .serv-content .card img {
+  padding: 0;
+  height: 250px;
+  width: 300px;
   color: crimson;
   transition: color 0.3s ease;
 }
+
+.services .serv-content .card i {
+  font-size: 160px;
+  color: crimson;
+  transition: color 0.3s ease;
+}
+
 .services .serv-content .card:hover i {
   color: #fff;
 }
 .services .serv-content .card .text {
   font-size: 25px;
   font-weight: 500;
-  margin: 10px 0 7px 0;
+  margin: 50px 0 7px 0;
 }
 
 /* skills section styling */
