@@ -212,23 +212,24 @@
                 </div>
                 <div class="column right">
                     <div class="text">Message me</div>
-                    <form method="post" autocomplete="off" name="google-sheet">
+                    <form method="post" autocomplete="off" name="google-sheet" >
                         <div class="fields">
                             <div class="field name">
-                                <input type="text" placeholder="Name" name = "Name" required>
+                                <input type="text" placeholder="Name" name = "Name" id="name" required>
                             </div>
                             <div class="field email">
-                                <input type="email" placeholder="Email" name="Email" required>
+                                <input type="email" placeholder="Email" name="Email" id="email" required>
                             </div>
                         </div>
                         <div class="field">
-                            <input type="text" placeholder="Subject" name="Subject" required>
+                            <input type="text" placeholder="Subject" name="Subject" id="subject" required>
                         </div>
                         <div class="field textarea">
-                            <textarea cols="30" rows="10" placeholder="Message.." name="Message"  required></textarea>
+                            <textarea cols="30" rows="10" placeholder="Message.." name="Message" id="message"  required></textarea>
                         </div>
                         <div class="button-area">
-                            <button type="submit" value="Send Email">Send message</button>
+                            <button type="submit"  value="Send Email">Send message</button><p>&nbsp;&nbsp;</p>  <!-- tab character-->
+                            <button type="reset" onclick="this.form.reset();" >Reset form</button>
                         </div>
                     </form>
                 </div>
@@ -247,7 +248,6 @@
     <footer>
         <span>Created By <a href="https://www.rohanchhetry.com.np">Rohan Chhetry</a> | <span class="far fa-copyright"></span> 2022 All rights reserved.</span>
     </footer>
-
     <script>
         const scriptURL = 'https://script.google.com/macros/s/AKfycbzNM6NnfzQrLoquU5MMh4wkuIFs10bnhhw--BqsolHmlZ8Qf0xv7FBNvF2CNdQMcRYA/exec'
         const form = document.forms['google-sheet']
@@ -258,12 +258,10 @@
             .then(response => alert("Thanks for Contacting ..! I Will Get Back to You Soon..."))
             .catch(error => console.error('Error!', error.message))
         })
-      </script>
-
-   
+        
+    </script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    
     <script src="js/script.js"></script>
 </body>
 </html>
