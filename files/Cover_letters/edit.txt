@@ -1,0 +1,31 @@
+1. Data Analyst CV
+
+Professional Summary
+
+Analytical Data Analyst skilled in transforming raw datasets into actionable insights. Experienced in building Python and SQL pipelines, performing data cleansing, and developing Power BI/Tableau dashboards that drive operational and strategic outcomes. Adept at predictive modelling, KPI reporting, and automation across Azure and AWS environments.
+
+Technical Highlights: Python, SQL, Power BI, Tableau, Excel (Power Query), AWS, Azure, Statistics, Data Quality, Data Cleaning
+
+Key Projects: Predictive AI System (Azure), Serverless Medical Report Generator (AWS), OCR/TTS Data Extraction
+
+
+2. Business Analyst CV
+
+Professional Summary
+
+Results-oriented Business Analyst experienced in gathering requirements, analysing processes, and translating analytical findings into business improvements. Skilled in Power BI, Excel, and SQL for actionable reporting and insight generation. Effective communicator who bridges business goals with data-driven outcomes in Agile environments.
+
+Technical Highlights: Requirements Analysis, Process Improvement, Power BI, Excel, SQL, Risk Analysis, Agile/SCRUM, Stakeholder Engagement
+
+Key Projects: Predictive AI System (Strategic Workforce Planning), Chatbot (Customer Automation), Serverless Medical Report Generator (Efficiency Improvement)
+
+
+3.Software Developer CV
+
+Professional Summary
+
+Versatile Software Developer with expertise in Python-based backend systems, cloud automation, and AI-enabled solutions. Experienced in designing APIs, developing serverless applications, and applying software-engineering principles using AWS and Azure. Committed to writing clean, efficient code and delivering scalable software solutions.
+
+Technical Highlights: Python, Flask, APIs, AWS Lambda, CI/CD, Testing, Git, Agile Development, Machine Learning Integration
+
+Key Projects: Serverless Medical Report Generator (Automation and Deployment), Chatbot (NLP Development), OCR/TTS System (AI Application)

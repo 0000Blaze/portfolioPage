@@ -1,0 +1,22 @@
+Rohan Chhetry (Ron)
+chhetry.rohan5@gmail.com
++61 435 265 565
+linkedin.com/in/rohan-chhetry
+rohanchhetry.com.np
+
+Dear Hiring Manager,
+
+I am writing to express my interest in analyst and developer roles within your organisation. With a Master’s degree in Data Science from Charles Darwin University and over two years of hands-on experience across data engineering, analytics, and software development, I bring a balanced mix of technical skill, business insight, and problem-solving ability that aligns well with your team’s goals.
+
+Throughout my professional journey, I have built and deployed Python-based ETL pipelines, designed interactive Power BI and Tableau dashboards, and implemented predictive analytics on AWS and Azure platforms. My experience includes developing serverless applications, automating reporting workflows, and ensuring data quality and governance across cloud environments. These projects strengthened my capabilities in SQL, data modelling, API integration, and stakeholder collaboration, all critical for delivering reliable, data-driven outcomes.
+
+I have worked in agile environments where clear communication and cross-functional teamwork are essential. Whether gathering business requirements, visualising KPIs, or optimising backend systems for scalability, I strive to deliver high-quality, maintainable solutions that turn complex data into actionable insights.
+
+Importantly, I hold full work rights in Australia and do not require employer sponsorship. This enables me to contribute immediately and flexibly to both short-term and long-term projects.
+
+I am enthusiastic about the opportunity to apply my technical and analytical background in a role that values data-driven innovation, business process improvement, and scalable software solutions. I would welcome the chance to discuss how my experience and motivation can support your organisation’s objectives.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to your team.
+
+Yours sincerely,
+Rohan Chhetry (Ron)
